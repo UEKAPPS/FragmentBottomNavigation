@@ -1,6 +1,6 @@
 # FragmentBottomNavigationExample
  Android Fragment Bottom Navigation Example - Java  
- Herkese merhabalar, ben Ufuk Enes KURT.  
+ Herkese merhaba, ben Ufuk Enes KURT.  
  Kanala abone olmak için: https://www.youtube.com/channel/UC7AkJETOrhaRfinAZ-XGEDQ  
   
  Kaynak kodlara ulaşmak için: https://github.com/UEKAPPS  
