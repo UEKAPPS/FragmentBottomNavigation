@@ -10,3 +10,5 @@ https://www.instagram.com/uekapps
 https://tr.linkedin.com/in/uekapps  
 https://twitter.com/uekapps  
 https://bionluk.com/uekapps  
+  
+  Youtube Linki: https://youtu.be/IxRziuIoxc0
